@@ -1,7 +1,7 @@
 # Hi there, I'm Remi 👋
 
 ## About Me
-I'm a passionate developer who loves creating and building new things. Welcome to my GitHub profile!
+Full Stack Dev who barely knows what he's doing, its all glued together with ducktape, passion and stack overflow..
 
 ## Skills
 
