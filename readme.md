@@ -1,7 +1,7 @@
 # Hi there, I'm Remi 👋
 
 ## About Me
-Full Stack Dev who barely knows what he's doing, its all glued together with ducktape, passion and stack overflow..
+Full Stack Developer passionate about creating robust, user-friendly applications with clean code and innovative solutions.
 
 ## Skills
 
@@ -16,14 +16,16 @@ Full Stack Dev who barely knows what he's doing, its all glued together with duc
           <path d="M6 20v-6"></path>
         </svg>
       </div>
-      <div style="color: #c9d1d9; font-weight: bold;">Languages I Duct Tape With</div>
+      <div style="color: #c9d1d9; font-weight: bold;">Languages</div>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">JavaScript</span>
       <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">TypeScript</span>
+      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">JavaScript</span>
       <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">HTML/CSS</span>
       <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Python</span>
       <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">SQL</span>
+      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Ruby</span>
+      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">C#</span>
     </div>
   </div>
   
@@ -44,15 +46,16 @@ Full Stack Dev who barely knows what he's doing, its all glued together with duc
           <line x1="1" y1="14" x2="4" y2="14"></line>
         </svg>
       </div>
-      <div style="color: #c9d1d9; font-weight: bold;">Frameworks & Libraries I Stack Overflow</div>
+      <div style="color: #c9d1d9; font-weight: bold;">Frameworks & Libraries</div>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 6px;">
       <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">React</span>
       <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Next.js</span>
-      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Node.js</span>
-      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Express</span>
-      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">TailwindCSS</span>
+      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">shadcn/ui</span>
       <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Redux</span>
+      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Framer Motion</span>
+      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Aceternity UI</span>
+      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">TailwindCSS</span>
     </div>
   </div>
   
@@ -66,15 +69,15 @@ Full Stack Dev who barely knows what he's doing, its all glued together with duc
           <polyline points="2 12 12 17 22 12"></polyline>
         </svg>
       </div>
-      <div style="color: #c9d1d9; font-weight: bold;">Tools & Technologies I'm Passionate About</div>
+      <div style="color: #c9d1d9; font-weight: bold;">Whatever Theo T3 Is Advertising</div>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Git</span>
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Docker</span>
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">AWS</span>
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Firebase</span>
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">MongoDB</span>
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">REST APIs</span>
+      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">tRPC</span>
+      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Prisma</span>
+      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">NextAuth</span>
+      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">TypeScript</span>
+      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Vercel</span>
+      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Zod</span>
     </div>
   </div>
 </div>
