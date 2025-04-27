@@ -1,151 +1,88 @@
-# Hi there, I'm Remi 👋
+<h2 align="left">Hey! I'm Remi :DD</h2>
 
-## About Me
-Full Stack Developer passionate about creating robust, user-friendly applications with clean code and innovative solutions.
+###
 
-## Skills
+<br clear="both">
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">
-  <!-- Skill Card 1 -->
-  <div style="background: #0d1117; border-radius: 10px; padding: 16px; flex: 1; min-width: 200px; border: 1px solid #30363d;">
-    <div style="display: flex; align-items: center; margin-bottom: 12px;">
-      <div style="background: rgba(88, 166, 255, 0.1); border-radius: 50%; padding: 8px; margin-right: 10px;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M18 20V10"></path>
-          <path d="M12 20V4"></path>
-          <path d="M6 20v-6"></path>
-        </svg>
-      </div>
-      <div style="color: #c9d1d9; font-weight: bold;">Languages</div>
-    </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">TypeScript</span>
-      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">JavaScript</span>
-      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">HTML/CSS</span>
-      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Python</span>
-      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">SQL</span>
-      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Ruby</span>
-      <span style="background: rgba(88, 166, 255, 0.1); color: #58a6ff; padding: 5px 10px; border-radius: 15px; font-size: 12px;">C#</span>
-    </div>
-  </div>
-  
-  <!-- Skill Card 2 -->
-  <div style="background: #0d1117; border-radius: 10px; padding: 16px; flex: 1; min-width: 200px; border: 1px solid #30363d;">
-    <div style="display: flex; align-items: center; margin-bottom: 12px;">
-      <div style="background: rgba(246, 158, 7, 0.1); border-radius: 50%; padding: 8px; margin-right: 10px;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#f69e07" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect>
-          <rect x="9" y="9" width="6" height="6"></rect>
-          <line x1="9" y1="1" x2="9" y2="4"></line>
-          <line x1="15" y1="1" x2="15" y2="4"></line>
-          <line x1="9" y1="20" x2="9" y2="23"></line>
-          <line x1="15" y1="20" x2="15" y2="23"></line>
-          <line x1="20" y1="9" x2="23" y2="9"></line>
-          <line x1="20" y1="14" x2="23" y2="14"></line>
-          <line x1="1" y1="9" x2="4" y2="9"></line>
-          <line x1="1" y1="14" x2="4" y2="14"></line>
-        </svg>
-      </div>
-      <div style="color: #c9d1d9; font-weight: bold;">Frameworks & Libraries</div>
-    </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">React</span>
-      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Next.js</span>
-      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">shadcn/ui</span>
-      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Redux</span>
-      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Framer Motion</span>
-      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Aceternity UI</span>
-      <span style="background: rgba(246, 158, 7, 0.1); color: #f69e07; padding: 5px 10px; border-radius: 15px; font-size: 12px;">TailwindCSS</span>
-    </div>
-  </div>
-  
-  <!-- Skill Card 3 -->
-  <div style="background: #0d1117; border-radius: 10px; padding: 16px; flex: 1; min-width: 200px; border: 1px solid #30363d;">
-    <div style="display: flex; align-items: center; margin-bottom: 12px;">
-      <div style="background: rgba(240, 93, 169, 0.1); border-radius: 50%; padding: 8px; margin-right: 10px;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#f05da9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
-          <polyline points="2 17 12 22 22 17"></polyline>
-          <polyline points="2 12 12 17 22 12"></polyline>
-        </svg>
-      </div>
-      <div style="color: #c9d1d9; font-weight: bold;">Whatever Theo T3 Is Advertising</div>
-    </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">tRPC</span>
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Prisma</span>
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">NextAuth</span>
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">TypeScript</span>
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Vercel</span>
-      <span style="background: rgba(240, 93, 169, 0.1); color: #f05da9; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Zod</span>
-    </div>
-  </div>
-</div>
+<p align="left"># 👋 print("Hello World")<br><br>## 🧙‍♂️ Who Am I?<br>I'm a 24-year-old code conjurer. By day, I craft weird and wonderful webapps; by night, I'm diving into cybersecurity and hacking tools.<br><br>## 💻 Tech Arsenal<br>```<br>// Check my repositories to see what languages I'm fluent in!<br>// Spoiler: I'm constantly adding new ones to my collection<br><br>## 🚀 What I'm About<br>- Building web applications that make people go "Why does it keep breaking.."<br>- Developing cybersec tools<br><br>## 🔮 Current Mission<br>Turning caffeine into code and ideas into digital reality.</p>
 
-
-## Stats
+###
 
 <div align="center">
-  <!-- Activity Stats Card - Inspired by animata.design -->
-  <div style="background: #0d1117; border-radius: 12px; padding: 20px; width: 100%; border: 1px solid #30363d; margin-bottom: 16px;">
-    <h3 style="color: #58a6ff; margin-top: 0; display: flex; align-items: center; gap: 8px;">
-      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
-      </svg>
-      Activity Stats
-    </h3>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
-      <div>
-        <div style="font-size: 0.8rem; color: #8b949e;">Weekly Commits</div>
-        <div style="font-size: 1.5rem; font-weight: bold; color: #58a6ff;">24</div>
-      </div>
-      <div>
-        <div style="font-size: 0.8rem; color: #8b949e;">PRs Created</div>
-        <div style="font-size: 1.5rem; font-weight: bold; color: #58a6ff;">12</div>
-      </div>
-      <div>
-        <div style="font-size: 0.8rem; color: #8b949e;">Issues Solved</div>
-        <div style="font-size: 1.5rem; font-weight: bold; color: #58a6ff;">7</div>
-      </div>
-    </div>
-    <div style="width: 100%; height: 10px; background: #161b22; border-radius: 5px; overflow: hidden; margin-bottom: 8px;">
-      <div style="width: 65%; height: 100%; background: linear-gradient(90deg, #58a6ff, #bc8cff);"></div>
-    </div>
-    <div style="font-size: 0.7rem; text-align: right; color: #8b949e;">65% towards weekly goal</div>
-  </div>
-  
-  <!-- GitHub Stats -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remiangelo&show_icons=true&theme=transparent)
-  
-  <!-- Top Languages -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remiangelo&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=remiangelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=remiangelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## Connect With Me
+###
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 25px;">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/remibeltram/" style="text-decoration: none; color: inherit;">
-    <div style="display: flex; align-items: center; gap: 8px; background: #0d1117; padding: 8px 16px; border-radius: 50px; border: 1px solid #30363d; transition: transform 0.2s;">
-      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#0a66c2" viewBox="0 0 24 24">
-        <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-      </svg>
-      LinkedIn
-    </div>
+<div align="left">
+  <a href="https://instagram.com/remibeltram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  
-  <!-- Email -->
-  <a href="mailto:r.beltram@pitturagroup.com" style="text-decoration: none; color: inherit;">
-    <div style="display: flex; align-items: center; gap: 8px; background: #0d1117; padding: 8px 16px; border-radius: 50px; border: 1px solid #30363d; transition: transform 0.2s;">
-      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#f05da9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
-        <polyline points="22,6 12,13 2,6"></polyline>
-      </svg>
-      Email Me
-    </div>
+  <a href="https://twitch.tv/ethericwtf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="prodetheric" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img height="150" src="https://imgur.com/a/RhSxoZx"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/remiangelo/remiangelo/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/remibeltram">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=remibeltram&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
