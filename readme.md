@@ -19,6 +19,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+### Songs I've Been Loving
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=remibeltram&width=600)
+
+---
 [![](https://visitcount.itsvg.in/api?id=remiangelo&icon=1&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
