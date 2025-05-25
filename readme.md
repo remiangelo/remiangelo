@@ -23,7 +23,7 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=remibeltram&width=600)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=remiangelo&icon=1&color=4)](https://visitcount.itsvg.in)
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mixedyremi) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/etheric) 
